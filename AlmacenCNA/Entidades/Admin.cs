@@ -8,5 +8,7 @@ namespace Entidades
 {
     public class Admin
     {
+
+        string si;
     }
 }
